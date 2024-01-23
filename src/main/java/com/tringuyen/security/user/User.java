@@ -1,5 +1,6 @@
 package com.tringuyen.security.user;
 
+import com.tringuyen.security.token.Token;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
